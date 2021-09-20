@@ -1,10 +1,7 @@
 ### Hi, I'm Vicky👋
-----
 
 💻 I’m currently studing Computer Engineering
-insert gif or link to demo
 
-  https://tenor.com/view/code-its-fun-its-fun-code-programming-programmer-gif-19318850
   
 
 <!--
