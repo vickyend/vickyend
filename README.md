@@ -1,6 +1,11 @@
-### Hi, I'm Vicky👋
+### Hi there! I'm Vicky👋
 
-💻 I’m currently studing Computer Engineering
+-💻 I’m currently studing Computer Engineering
+____
+
+Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyend)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
