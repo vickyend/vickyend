@@ -1,6 +1,6 @@
 ### Hi there! I'm Vicky👋
 
--💻 I’m currently studing Computer Engineering
+💻 I’m currently studing Computer Engineering
 ____
 
 Stats:
